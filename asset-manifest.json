@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bot-app/static/css/main.ce035f5f.css",
+    "main.js": "/bot-app/static/js/main.cfe2dd5d.js",
+    "static/js/453.8ad6076a.chunk.js": "/bot-app/static/js/453.8ad6076a.chunk.js",
+    "index.html": "/bot-app/index.html",
+    "main.ce035f5f.css.map": "/bot-app/static/css/main.ce035f5f.css.map",
+    "main.cfe2dd5d.js.map": "/bot-app/static/js/main.cfe2dd5d.js.map",
+    "453.8ad6076a.chunk.js.map": "/bot-app/static/js/453.8ad6076a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce035f5f.css",
+    "static/js/main.cfe2dd5d.js"
+  ]
+}
